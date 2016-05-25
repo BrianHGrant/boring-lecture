@@ -1,0 +1,17 @@
+h2.intro {
+  font-size: 28px;
+  font-weight: 600;
+  color: blue;
+  text-align: center;
+}
+
+p.intro {
+  font-style: italic;
+}
+
+img.intro {
+  border-style: solid;
+  border-color: red;
+  height: 100px;
+  width: 100px;
+}
