@@ -15,3 +15,8 @@ img.intro {
   height: 100px;
   width: 100px;
 }
+
+.highlighted {
+  border: 2pt solid green;
+  background-color: yellow;
+}
